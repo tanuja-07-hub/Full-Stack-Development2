@@ -1,4 +1,4 @@
-# Ignore Node.js dependencies
+# Ignore Node modules
 week5/node_modules/
 week6/node_modules/
 
@@ -7,6 +7,10 @@ week5/package.json
 week5/package-lock.json
 week6/package.json
 week6/package-lock.json
+
+# Ignore tsconfig files
+week5/tsconfig.json
+week6/tsconfig.json
 
 # Ignore compiled JavaScript
 week5/*.js
