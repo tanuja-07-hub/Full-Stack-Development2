@@ -2,9 +2,12 @@
 week5/node_modules/
 week6/node_modules/
 
-# Ignore compiled JavaScript files
+# Ignore package files
+week5/package.json
+week5/package-lock.json
+week6/package.json
+week6/package-lock.json
+
+# Ignore compiled JavaScript
 week5/*.js
 week6/*.js
-
-# Ignore package lock if you don't want to track it (optional)
-# package-lock.json
