@@ -1,0 +1,10 @@
+# Ignore Node.js dependencies
+week5/node_modules/
+week6/node_modules/
+
+# Ignore compiled JavaScript files
+week5/*.js
+week6/*.js
+
+# Ignore package lock if you don't want to track it (optional)
+# package-lock.json
